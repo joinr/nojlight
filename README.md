@@ -29,8 +29,8 @@ using the save button.
 
 On save, the notebook will be re-rendered by clay automatically and the browser view updated.
 
-[Nightlight](nightlight.jpg)
-[Clay Notebook](claybook.jpg)
+![Nightlight](nightlight.jpg)
+![Clay Notebook](claybook.jpg)
 
 Copyright © 2026 Joinr
 
